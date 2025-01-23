@@ -10,6 +10,7 @@ labels:
   - C++
 summary: "During ICS 212 our final project was to combine everything we did throughout the semester into a functioning program."
 ---
+<img class="img-fluid" src="../img/database.jpg">
 
 I implemented a program in both C and C++ that uses a user interface to input accounts into a database of linked lists. The user interface
 allows the user to add a new record, delete a record, search for a record, and print all records with both a debug and normal mode of operation. 
