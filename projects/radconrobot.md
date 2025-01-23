@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/robot.png
 title: "Radcon Robot"
 date: 2022
 published: true
