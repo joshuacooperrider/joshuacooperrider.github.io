@@ -16,14 +16,4 @@ Some of these surveys require large areas to be surveyed within a reasonable tim
 able to take the place of several technicians at once, does not get tired or bored, and provides repeatable data points. This will drastically save cost and resources when the robot is 
 fully implemented.
 
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
 ```
