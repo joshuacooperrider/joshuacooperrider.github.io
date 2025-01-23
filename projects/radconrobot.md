@@ -7,7 +7,7 @@ date: 2022
 published: true
 labels:
   - Robotics
-summary: "My team developed worked on an ongoing project to create a robot that could perform simple radiological surveys through remote operation."
+summary: "My team worked on an ongoing project to create a robot that could perform simple radiological surveys through remote operation."
 ---
 
 The goal of the Radcon Robot is to make performance of large scale radiological surveys simpler and less strenuous for technicians. There are routine radiological surveys performed
