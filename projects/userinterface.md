@@ -17,7 +17,7 @@ Below is the getaddress function of the code used.
 
 ```
 cpp
-{void getaddress(char address[], int max) 
+void getaddress(char address[], int max) 
 {
     int i = 0;
     char c;
@@ -46,4 +46,4 @@ cpp
 #ifdef DEBUG
     std::cout << "Debug: Address entered: " << address << std::endl;
 #endif
-}}
+}
