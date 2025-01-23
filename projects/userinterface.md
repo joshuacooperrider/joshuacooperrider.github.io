@@ -13,10 +13,11 @@ summary: "During ICS 212 our final project was to combine everything we did thro
 
 I implemented a program in both C and C++ that uses a user interface to input accounts into a database of linked lists. The user interface
 allows the user to add a new record, delete a record, search for a record, and print all records with both a debug and normal mode of operation. 
-Below is the3 getaddress function of the code used.
+Below is the getaddress function of the code used.
 
-```cpp
-void getaddress(char address[], int max) 
+```
+cpp
+{void getaddress(char address[], int max) 
 {
     int i = 0;
     char c;
@@ -45,4 +46,4 @@ void getaddress(char address[], int max)
 #ifdef DEBUG
     std::cout << "Debug: Address entered: " << address << std::endl;
 #endif
-}
+}}
