@@ -16,7 +16,7 @@ allows the user to add a new record, delete a record, search for a record, and p
 Below is the getaddress function of the code used.
 
 ```
-cpp
+[cpp
 void getaddress(char address[], int max) 
 {
     int i = 0;
@@ -46,4 +46,4 @@ void getaddress(char address[], int max)
 #ifdef DEBUG
     std::cout << "Debug: Address entered: " << address << std::endl;
 #endif
-}
+}]
