@@ -9,6 +9,7 @@ labels:
   - Robotics
 summary: "My team worked on an ongoing project to create a robot that could perform simple radiological surveys through remote operation."
 ---
+<img class="img-fluid" src="../img/robot.png">
 
 The goal of the Radcon Robot is to make performance of large scale radiological surveys simpler and less strenuous for technicians. There are routine radiological surveys performed
 by the Radiological Monitoring Division of the Navy that measure and record radiation levels in the environment. This data is used to ensure the safe operation of nuclear power plants.
