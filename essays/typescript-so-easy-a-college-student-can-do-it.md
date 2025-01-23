@@ -4,7 +4,7 @@ type: essay
 title: "Typescript: So easy a college student can do it"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-23
-published: false
+published: true
 labels:
   - Typescript
   - Learning
