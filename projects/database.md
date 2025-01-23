@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/database.jpg
+image: img/submarine.png
 title: "Electronic Records"
 date: 2020
 published: true
