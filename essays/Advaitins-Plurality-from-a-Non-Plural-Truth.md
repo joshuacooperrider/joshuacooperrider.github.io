@@ -8,9 +8,7 @@ published: true
 labels:
   - Philosophy
 ---
-<link rel="stylesheet" type="text/css" href="/css/essay-styles.css">
-<div class="content">
-	<img width="200px" class="rounded float-start pe-4" src="../img/vishnu.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/vishnu.png">
 
 ## Introduction
 <div style="text-indent: 2em;">
