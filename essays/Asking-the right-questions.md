@@ -54,6 +54,7 @@ Can you tell why this is a good question? It shows that the user asking the ques
 ## What does a bad question look like?
 
 If your question is not well defined, looks like you don't have a concept of the subject, or looks like your trying to be lazy then you almost certainly won't be getting help anytime soon. As an example see the following question:
+
 ```
 Title:
 "Why is my code not working??? HELP ASAP!!!"
@@ -69,8 +70,14 @@ def doSomething(x):
 doSomething(5)
 I need this fixed fast for my school project. Please respond quickly. Thanks!!!"
 ```
-Can you tell why this is a bad question? It shows that the user clearly doesn't have a baseline understanding of the information they're requesting assistance with. It is clear that the user did not even attempt to research the answer themselves prior to asking on the forum.
+
+Can you tell why this is a bad question? It shows that the user clearly doesn't have a baseline understanding of the information they're requesting assistance with. It is clear that the user did not even attempt to research the answer themselves prior to asking on the forum. Asking a question like this shows that the user doesn't value the time or effort of those on the forum. They're looking for a quick response to something that could easily be researched. The question is also just too vague. There is no explaination of what the intended result was or solutions tried by the user.
+
+## Conclusion
+
+While working in a professional environment it is important to be able to communicate efficiently with peers. It is important to take initiative and try to find an answer to the problem for yourself. Only after you have exhausted all you're own means in answering the question should you then try to seek the answer on a public forum. This shows that you are willing to learn, dedicated, and truly encounterng something that other experts might have also encountered. This will yield much better results and can help the entire community grow as a whole.
 
 ## References
 https://softwareengineering.stackexchange.com/questions/456416/c-var-vs-interface-vs-concrete-class-in-object-instantiation
 https://chatgpt.com/share/679c58cb-aa6c-8012-af32-fb2e0d7bd677
+http://www.catb.org/esr/faqs/smart-questions.html
