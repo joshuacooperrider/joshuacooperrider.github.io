@@ -10,7 +10,7 @@ labels:
   - Answers
   - StackOverflow
 ---
-<img width="700px" height="200px" class="rounded float-start pe-4" src="../img/question.png">
+<img width="700px" height="200px" src="../img/question.png">
 
 ## Introduction
 
