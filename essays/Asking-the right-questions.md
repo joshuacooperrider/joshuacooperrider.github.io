@@ -80,5 +80,7 @@ While working in a professional environment it is important to be able to commun
 
 ## References
 https://softwareengineering.stackexchange.com/questions/456416/c-var-vs-interface-vs-concrete-class-in-object-instantiation
+
 https://chatgpt.com/share/679c58cb-aa6c-8012-af32-fb2e0d7bd677
+
 http://www.catb.org/esr/faqs/smart-questions.html
