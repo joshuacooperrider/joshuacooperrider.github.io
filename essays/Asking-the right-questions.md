@@ -69,7 +69,7 @@ def doSomething(x):
 doSomething(5)
 I need this fixed fast for my school project. Please respond quickly. Thanks!!!"
 ```
-Can you tell why this is a bad question?
+Can you tell why this is a bad question? It shows that the user clearly doesn't have a baseline understanding of the information they're requesting assistance with. It is clear that the user did not even attempt to research the answer themselves prior to asking on the forum.
 
 ## References
 https://softwareengineering.stackexchange.com/questions/456416/c-var-vs-interface-vs-concrete-class-in-object-instantiation
