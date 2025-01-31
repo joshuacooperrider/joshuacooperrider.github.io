@@ -79,8 +79,8 @@ Can you tell why this is a bad question? It shows that the user clearly doesn't 
 While working in a professional environment it is important to be able to communicate efficiently with peers. It is important to take initiative and try to find an answer to the problem for yourself. Only after you have exhausted all you're own means in answering the question should you then try to seek the answer on a public forum. This shows that you are willing to learn, dedicated, and truly encounterng something that other experts might have also encountered. This will yield much better results and can help the entire community grow as a whole.
 
 ## References
-https://softwareengineering.stackexchange.com/questions/456416/c-var-vs-interface-vs-concrete-class-in-object-instantiation
+[Link Text](https://softwareengineering.stackexchange.com/questions/456416/c-var-vs-interface-vs-concrete-class-in-object-instantiation)
 
-https://chatgpt.com/share/679c58cb-aa6c-8012-af32-fb2e0d7bd677
+[Link Text](https://chatgpt.com/share/679c58cb-aa6c-8012-af32-fb2e0d7bd677)
 
-http://www.catb.org/esr/faqs/smart-questions.html
+[Link Text](http://www.catb.org/esr/faqs/smart-questions.html)
