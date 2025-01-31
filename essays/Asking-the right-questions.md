@@ -11,6 +11,7 @@ labels:
   - StackOverflow
 ---
 <img width="700px" class="rounded float-start pe-4" src="../img/question.png">
+
 ## Introduction
 
 Have you ever wondered why your question on a forum goes unanswered or your responses are not so helpful? It might be because the question proposed wasn't written for your audience. Most people answering questions on forums are doing so out of the goodness of their hearts. A question that makes it sound like you havent done your research or sounds like your trolling will probably go ignored. It's important to understand how asking a question the right way can vastly improve the answers you get.
