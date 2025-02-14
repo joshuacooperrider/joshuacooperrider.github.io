@@ -24,8 +24,6 @@ What does the following code do?
 function f(a:number):number{let b=1;for(let i=1;i<=a;i++){b*=i;}return b;}
 ```
 
-## Why standards are important
-
 It calculates the factorial of an input number, however with poor variable and function names, no comments, and trying to do everything on one line it is hard to tell at a glance what it is doing.
 
 Compare that version to the following version:
@@ -47,6 +45,8 @@ function calculateFactorial(num: number): number {
     return result;
 }
 ```
+
+## Why standards are important
 
 Functionally both of these programs work the same and will return the same value, however the second version is much easier to read for a human being. When it comes to working for an organization it is important to implement a standard way to write code so that any other person working with your source code can make sense of it. If I’m cooking tikka masala at my own house I know where my ingredients are, what spices I have without labeling them, and what quantities I want to use. If I’m cooking tikka masala at my friend’s house for a larger group then at the very least I would like everything to be clearly labeled, what quantities of spices to use, and how big the portions should be. When writing code for a company you are not cooking in your own house. You’re cooking in the company’s house and someone else might have to jump in to finish, add to, or utilize your work. Enforcing a standard helps keep clarity, uniformity, and repeatability of work done at any organization.
 
