@@ -12,7 +12,7 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/essayimages/Standards.jpeg">
 
-*Why standards are important*
+*Why do standards matter?*
 
 ## Introduction
 
