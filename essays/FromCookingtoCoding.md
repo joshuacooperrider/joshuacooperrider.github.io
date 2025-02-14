@@ -4,7 +4,7 @@ type: essay
 title: "From Cooking to Coding: Why standards matter"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-13
-published: false
+published: true
 labels:
   - Coding
   - Standards
