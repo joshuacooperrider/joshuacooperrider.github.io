@@ -35,12 +35,15 @@ self evident. Take the following screenshots as an example:
 
 ---
 The top screenshot is from an official website: https://www.kohanarum.com/
-The bottom screenshot is a recreation I made in 45 min using the 
-Bootstrap5 framework. As you can see, developer tools such as 
-Bootstrap can allow a user to do some incredible things. The 
-same thing could be achieved using only HTML and CSS formats but 
-Bootstrap sets up an easy to understand format for creating/
+The bottom screenshot is a recreation I made in 45 min using the Bootstrap5 framework. As you can see, 
+developer tools such as Bootstrap can allow a user to do some incredible things. The same thing could be 
+achieved using only HTML and CSS formats but Bootstrap sets up an easy to understand format for creating/
 recreating websites that are easy on the eyes.
 
 ## Conclusion
 
+Predefined styles, grid systems, and components provided by frameworks like Bootstrap speed up the process and 
+provide reliable formats for designing websites. They also allow easy layouts that can be used across multiple 
+screen sizes without the need of extensive CSS media queries. When working in teams, UI frameworks allow for 
+consistency accross the project. Everything that bootstrap does can be done in CSS, however, why reinvent the 
+wheel?
