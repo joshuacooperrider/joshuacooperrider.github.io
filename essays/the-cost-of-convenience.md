@@ -26,7 +26,16 @@ today. So what does this have to do with using UI frameworks?
 ## The Language of Learning
 
 Learning any new way to do something is much like learning a new language. It may seem difficult and 
-frustrating at first, but given time, effort, and dedication it can become second nature.
+frustrating at first, but given time, effort, and dedication it can become second nature. Using a developement 
+tool such as bootstrap comes with its own learning curve but in time the benefits of using such tools become 
+self evident. Take the following screenshots as an example:
+
+```
+<img width="300px" class="rounded float-start pe-4" src="/img/ui-design/Kohana-official.png">
+```
+```
+<img width="300px" class="rounded float-start pe-4" src="/img/ui-design/Kohana-bootstrap.png">
+```
 
 ## Conclusion
 
