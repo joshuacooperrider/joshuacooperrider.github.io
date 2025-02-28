@@ -10,7 +10,7 @@ labels:
   - Convenience
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/ui-design/user-interface.jpg">
+<img width="300px" class="rounded float-start pe-4" src="C:/Users/joshu/GitHub/joshuacooperrider.github.io/img/ui-design/user-interface.jpg">
 
 *Are UI Frameworks Worth the Learning Curve?*
 
