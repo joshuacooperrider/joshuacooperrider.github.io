@@ -30,8 +30,8 @@ frustrating at first, but given time, effort, and dedication it can become secon
 tool such as bootstrap comes with its own learning curve but in time the benefits of using such tools become 
 self evident. Take the following screenshots as an example:
 
-<img width="300px" class="rounded float-start pe-4 d-block mx-auto" src="/img/ui-design/Kohana-official.png">
-<img width="300px" class="rounded float-start pe-4 d-block mx-auto" src="/img/ui-design/Kohana-bootstrap.png">
+<img width="500px" class="rounded float-start pe-4 d-block mx-auto" src="/img/ui-design/Kohana-official.png">
+<img width="500px" class="rounded float-start pe-4 d-block mx-auto" src="/img/ui-design/Kohana-bootstrap.png">
 
 ---
 The top screenshot is from an official website: https://www.kohanarum.com/
