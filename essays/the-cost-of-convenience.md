@@ -29,13 +29,16 @@ Learning any new way to do something is much like learning a new language. It ma
 frustrating at first, but given time, effort, and dedication it can become second nature. Using a developement 
 tool such as bootstrap comes with its own learning curve but in time the benefits of using such tools become 
 self evident. Take the following screenshots as an example:
-
-```
+---
 <img width="300px" class="rounded float-start pe-4" src="/img/ui-design/Kohana-official.png">
-```
-```
 <img width="300px" class="rounded float-start pe-4" src="/img/ui-design/Kohana-bootstrap.png">
-```
+
+---
+The top screenshot is from an official website: https://www.kohanarum.com/
+The bottom screenshot is a recreation I made in 45 min using the 
+Bootstrap5 framework. As you can see, developer tools such as 
+Bootstrap can allow a user to do some incredible things. The 
+same thing could be achieved using only HTML and CSS formats but Bootstrap sets up an easy to understand format for creating/recreating websites that are easy on the eyes.
 
 ## Conclusion
 
