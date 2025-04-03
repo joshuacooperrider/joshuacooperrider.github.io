@@ -16,22 +16,29 @@ famous, people looking to socialise, and just a general medley of different use 
 brings artists together, from amateurs to professionals, to showcase, advertise, and sell their products.
 
 ## Names of Proposers
-Joshua Cooperrider
-Darin Wong
-Rolando Cadiz
-Keita Grant
-Justin Barrett
+Joshua Cooperrider, 
+Darin Wong, 
+Rolando Cadiz, 
+Keita Grant, 
+Justin Barrett, 
 
 ## Mockup Page Idea:
-Home-Page: contains a revolving showcase of different artists to display their work to the community. Search function to find/filter art 
-for sale and profiles.
+Home-Page
+
 Login/Register
+
 Profile
+
 Gallery
+
 Special Events
+
 Friends/Followers
+
 Reviews
+
 Verification
+
 Chat
 
 ## Use Case Ideas
