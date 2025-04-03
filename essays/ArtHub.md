@@ -69,9 +69,13 @@ Artist ratings: Implementation of a user's “Artist score/rating” via databas
 
 ## Tech Stack
 Frontend: Next.js, React, Bootstrap 5
-Backend: Node.js (Express)
-Database: PostgreSQL
-Authentication: JWT or Session-based login system
-Real-Time Features: WebSockets or Polling to update parking lot statuses
-Deployment: GitHub Project Board for collaboration, Vercel for deployment
 
+Backend: Node.js (Express)
+
+Database: PostgreSQL
+
+Authentication: JWT or Session-based login system
+
+Real-Time Features: WebSockets or Polling to update parking lot statuses
+
+Deployment: GitHub Project Board for collaboration, Vercel for deployment
