@@ -20,7 +20,7 @@ Joshua Cooperrider,
 Darin Wong, 
 Rolando Cadiz, 
 Keita Grant, 
-Justin Barrett, 
+Justin Barrett
 
 ## Mockup Page Idea:
 Home-Page
