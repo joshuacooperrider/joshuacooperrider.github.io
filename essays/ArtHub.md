@@ -8,6 +8,7 @@ published: true
 labels:
   - Art
   - Convenience
+  - Networking
 ---
 ## The Problem
 Selling art and networking as a freelance artist is difficult. Using social media to showcase and advertise sounds like a great start, 
