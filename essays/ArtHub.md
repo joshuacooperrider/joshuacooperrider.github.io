@@ -19,11 +19,19 @@ Selling/Trading
 Advertising
 
 Categorized
+
 Weekly rotating homepage profile previews
+
 Feed for followed accounts
+
 Sales filter
+
 Reviews
+
 Scam prevention
+
 Verification for sellers
+
 Themed showcases with ratings 
+
 Profile cards are essentially mini websites for each user to showcase themselves and give descriptions. 
