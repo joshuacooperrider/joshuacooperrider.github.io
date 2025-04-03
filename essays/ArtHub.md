@@ -10,10 +10,14 @@ labels:
   - Convenience
 ---
 ## Idea
-ArtHub is a freelance art advocate. A place to sell art and products from artists of all varieties. 
+ArtHub is a freelance art advocate. A place to sell art and products from artists of all varieties.
+
 Uses software to flag potential AI generated art that is disputable by creator
+
 Selling/Trading 
+
 Advertising
+
 Categorized
 Weekly rotating homepage profile previews
 Feed for followed accounts
