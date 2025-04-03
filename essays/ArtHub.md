@@ -6,7 +6,7 @@ title: "ArtHub"
 date: 2025-04-03
 published: true
 labels:
-  - User Interface
+  - Art
   - Convenience
 ---
 ## Idea
