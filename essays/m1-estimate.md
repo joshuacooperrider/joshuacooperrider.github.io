@@ -1,20 +1,37 @@
 ---
 layout: essay
 type: essay
-title: "M1 Estimation Tracking"
+title: "Timeboxed and Confused"
 date: 2025-04-15
-published: false
+published: true
 labels:
   - Software Engineering
   - Learning
+  - Estimation Tracking
 ---
 
-# Milestone 1: Estimation Tracking
+# Project Milestone Estimation
 
-Effort estimates were based on prior experiences throughout the course, particularly with building pages for Next.js applications. Some buffer time was also factored in to account for unexpected complications and integration with other branches.
+Estimation is an essential element to successful project deployment. It serves as the foundation for planning, resource allocation, and progress tracking. In the context of Milestone 1, developing accurate estimates helped us better understand the scope of our tasks and set realistic expectations for ourselves and our team.
 
-Overall, our estimates proved fairly accurate—if anything, slightly conservative. Even if they weren’t perfect, they still offered significant value. They helped us gain perspective on how to approach future estimations and ensured we remained accountable for completing our work and resolving issues on time.
+This reflection outlines how our estimates were formed, the insights we gained through the process, and the personal strategies I used to stay organized and accountable. While the journey was not without its challenges, it provided meaningful lessons about balancing precision with flexibility in a collaborative software development environment.
 
-Effort estimation plays a crucial role in team coordination. It ensures that work is distributed proportionally, prevents bottlenecks, and helps identify areas where teammates may need support. For example, if one member consistently struggles to meet their estimates while others find them reasonable, we can more easily identify the root of the issue and provide targeted assistance.
+### How Estimates Were Created
 
-Actual effort was tracked through...
+Effort estimates were based on prior experience throughout the course—particularly from building pages in Next.js, completing WODs, and gauging overall familiarity with the tools and technologies involved. Additional buffer time was included to accommodate unexpected complications and integration efforts with other branches.
+
+### Usefulness of Estimation
+
+While our estimates were not flawless, they proved to be highly valuable. They offered insight into how future estimations can be more accurate and helped reinforce accountability in completing tasks and resolving issues in a timely manner.
+
+Effort estimation also played a vital role in team coordination. It helped ensure that work was distributed proportionally, avoided potential bottlenecks, and revealed when a team member might require additional support. For instance, if one individual consistently missed estimates while others stayed on track, it became easier to identify underlying issues and intervene constructively.
+
+### Personal Tracking Method
+
+My own tracking approach was informal yet effective. I mentally monitored the time I spent on each issue, beginning from the moment I engaged with the task to when I completed it. This included time spent on research and planning in addition to actual coding.
+
+As a full-time student, employee, and husband, my working time was often fragmented. To stay organized, I made brief note entries on my desktop whenever I had to step away. These notes summarized my current progress, next steps, and total time spent so far—allowing me to quickly resume work with minimal friction.
+
+### Final Thoughts
+
+Estimating effort is as much an art as it is a science. Even when the outcomes don't perfectly match the initial predictions, the act of estimating still adds tremendous value. It encourages intentional planning, fosters accountability, and sharpens our understanding of both individual and team capacity. Moving forward, I plan to refine my estimation techniques by incorporating what I’ve learned—staying mindful of where time is actually spent, and how that aligns with expectations.
