@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Timeboxed and Confused"
+title: "Scaffolding Genius: Reusing the Wisdom of Software Architects"
 date: 2025-04-15
 published: true
 labels:
@@ -9,33 +9,7 @@ labels:
   - Learning
   - Estimation Tracking
 ---
-<img width="400px" class="rounded float-start pe-4" src="../img/clock.png">
-
-# ---
-layout: essay
-type: essay
-title: "Timeboxed and Confused"
-date: 2025-04-15
-published: true
-labels:
-  - Software Engineering
-  - Learning
-  - Estimation Tracking
----
-<img width="400px" class="rounded float-start pe-4" src="../img/clock.png">
-
-# ---
-layout: essay
-type: essay
-title: "Timeboxed and Confused"
-date: 2025-04-15
-published: true
-labels:
-  - Software Engineering
-  - Learning
-  - Estimation Tracking
----
-<img width="400px" class="rounded float-start pe-4" src="../img/clock.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/fractal.jpg">
 
 # Reusing the Wisdom of Software Architects
 
