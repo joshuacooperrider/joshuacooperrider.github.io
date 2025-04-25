@@ -7,7 +7,6 @@ published: true
 labels:
   - Software Engineering
   - Learning
-  - Estimation Tracking
 ---
 <img width="400px" class="rounded float-start pe-4" src="../img/fractal.jpg">
 
