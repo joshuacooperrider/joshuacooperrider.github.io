@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Scaffolding Genius: Reusing the Wisdom of Software Architects"
-date: 2025-04-15
+date: 2025-04-24
 published: true
 labels:
   - Software Engineering
