@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "AI as a Supplement, Not a Shortcut"
-date: 2025-04-15
+date: 2025-05-06
 published: true
 labels:
   - Software Engineering
