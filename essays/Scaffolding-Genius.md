@@ -20,6 +20,6 @@ Much like how a skyscraper might use a cantilever system to elegantly support an
 
 Take the Singleton pattern, often maligned for its potential overuse, has proven helpful in moderation. A logging service for an application that has to write events to a file or external database. Making this logger a Singleton ensured that only one instance exists across the app, simplifying configuration and avoiding conflicts.
 
-Design patterns are not magic bullets; they’re more like architectural wisdom passed from one engineer to the next. They help us avoid reinventing the wheel and instead focus our creative energy where it matters. When I reach for a design pattern, I’m not just solving a problem—I’m standing on the shoulders of those who solved similar problems decades before me.
+Design patterns are not magic bullets; they’re more like architectural wisdom passed from one engineer to the next. They help us avoid reinventing the wheel and instead focus our creative energy where it matters. When I reach for a design pattern, I’m not just solving a problem, I’m standing on the shoulders of those who solved similar problems decades before me.
 
-So when an interviewer asks, "What are design patterns?" they’re really asking if you know how to build with more than bricks—they want to see if you can shape a skyline.
+So when an interviewer asks, "What are design patterns?" they’re really asking if you know how to build with more than bricks, they want to see if you can shape a skyline.
