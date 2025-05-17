@@ -10,9 +10,7 @@ labels:
 ---
 <img width="400px" class="rounded float-start pe-4" src="../img/mountain.png">
 
-# Beyond Code: 
-
-### What Software Engineering Taught Me About Building Well
+### Introduction
 
 When signing up for a software engineering class, I expected to learn how to develop applications and websites. Oh-boy, was I underestimating what that entailed. Sure, we did plenty of that — using tools and technologies like Bootstrap, Next.js, HTML, and TypeScript — but we also dove into ideas that extended far beyond just writing code. This course taught me how to engineer software, and more importantly, how to collaborate, manage complexity, and write systems that can grow and last. In the process, I learned that while tools come and go, the principles of software engineering stay with you.
 
@@ -20,7 +18,7 @@ When signing up for a software engineering class, I expected to learn how to dev
 
 What does your morning routine look like? Personally, I like to throw a couple of eggs on the stove (low heat, of course), start my coffee machine, grab my toothbrush, and jump in the shower. While taking care of my hygiene, my food and coffee are slowly getting ready so that when I’m out, I can throw on my work clothes, grab breakfast, and go.
 
-I’m sure your routine looks different than mine in at least a few ways. But now imagine if I said, “Okay, Joshua just finished putting eggs on the stove. I need you to pick up from there and get to work on time.” Maybe for you, putting eggs on the stove is the final step before heading out. So you leave—naked, un-caffeinated, and un-clean.
+I’m sure your routine looks different than mine in at least a few ways. But now imagine if I said, “Okay, Joshua just finished putting eggs on the stove. I need you to pick up from there and get to work on time.” Maybe for you, putting eggs on the stove is the final step before heading out. So you grab your eggs and leave—naked, un-caffeinated, and un-clean.
 
 That’s where standards come in. When working with teams — or even just picking up old code you wrote months ago — having consistent, readable coding standards makes life significantly easier. Coding standards enforce uniformity in structure, formatting, and documentation. It's not just about where to place your brackets — it’s about writing code so clearly and predictably that someone else can seamlessly jump in, understand it, and build on it. Standards remove guesswork, reduce bugs, and make code maintainable. Just like a good morning routine, they bring order to chaos.
 
