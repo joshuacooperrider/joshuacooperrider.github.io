@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Timeboxed and Confused"
 date: 2025-04-15
-published: true
+published: false
 labels:
   - Software Engineering
   - Learning
