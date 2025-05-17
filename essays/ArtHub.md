@@ -4,7 +4,7 @@ type: essay
 title: "ArtHub"
 # All dates must be YYYY-MM-DD format!
 date: 2025-04-03
-published: true
+published: false
 labels:
   - Art
   - Convenience
